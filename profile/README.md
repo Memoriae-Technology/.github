@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Memoriae-Technology/.github/assets/81470496/3492fc7b-70cc-49ad-b83e-a35cc406d054" width="100" alt="Memoriae Technology Logo"/>
+  <img src="https://github.com/Memoriae-Technology/.github/assets/81470496/3492fc7b-70cc-49ad-b83e-a35cc406d054" width="120" alt="Memoriae Technology Logo"/>
 </p>
 
 
@@ -55,7 +55,7 @@ At Memoriae Technology, simulations are more than just digital constructs; they 
 
 Our research in time and cybernetics is not confined to theoretical explorations. We actively seek practical applications and innovative solutions that challenge the status quo, bringing futuristic concepts into today's reality.
 
-## Our Motto: "Remember The Future"
+## "Remember The Future"
 
 "Remember The Future" - This is not just a slogan, but the essence of our philosophy. It embodies our commitment to learning from the past and innovating in the present to reshape the future. It is a reminder that the future is not a distant dream but a reality we are actively creating. We chose this approach as an expression of the cyclicality of time and that it does not actually flow in a single direction.
 
