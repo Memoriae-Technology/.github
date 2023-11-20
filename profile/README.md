@@ -2,13 +2,12 @@
   <img src="https://github.com/Memoriae-Technology/.github/assets/81470496/3492fc7b-70cc-49ad-b83e-a35cc406d054" width="120" alt="Memoriae Technology Logo"/>
 </p>
 
-
 <h1 align="center">
   Memoriae Technology
 </h1>
 
 <p align="center">
-  <img src="https://github.com/Memoriae-Technology/.github/assets/81470496/75d4558e-5a5c-40b0-9ceb-d71177b9343f" width="950" alt="Memoriae-AE"/>
+  <img src="https://github.com/Memoriae-Technology/.github/assets/81470496/0f2a50a7-fa3d-492a-9925-69549e5f0819" width="950" alt="Memoriae-AE"/>
 </p>
 
 # Welcome
