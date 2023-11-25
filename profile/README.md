@@ -38,7 +38,7 @@ Our research in time and cybernetics is not confined to theoretical explorations
 
 ## "Remember The Future"
 
-"Remember The Future" - This is not just a slogan, but the essence of our philosophy. It embodies our commitment to learning from the past and innovating in the present to reshape the future. It is a reminder that the future is not a distant dream but a reality we are actively creating. We chose this approach as an expression of the cyclicality of time and that it does not actually flow in a single direction.
+"Remember The Future" - This is not just a sentence, but the essence of our philosophy. It embodies our commitment to learning from the past and innovating in the present to reshape the future. It is a reminder that the future is not a distant dream but a reality we are actively creating. We chose this approach as an expression of the cyclicality of time and that it does not actually flow in a single direction.
 
 ## Join Us
 
